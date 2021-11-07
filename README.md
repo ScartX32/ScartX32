@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ScartX32
+- 👀 I’m interested in web development
